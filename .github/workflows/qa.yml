@@ -8,4 +8,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python scripts/validate_course.py
+      - name: Conferir 20 livros e integridade de gabarito
+        run: python scripts/validate_course.py
+      - name: Conferir bloco piloto independente
+        run: python scripts/validate_pilot.py
+      - name: Reportar alertas editoriais sem confundir com homologação
+        run: |
+          python scripts/audit_quality.py > editorial_audit.json
+          python - <<'PY'
+          import json
+          d=json.load(open('editorial_audit.json'))
+          for issue in d['problems']:
+              print('::warning::' + issue)
+          print('Curso juridicamente homologado?', d['course_homologated'])
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: audit-metrics
+          path: editorial_audit.json
