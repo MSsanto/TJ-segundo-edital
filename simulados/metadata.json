@@ -1,0 +1,17 @@
+{
+  "concurso": "TJSP Oficial de Justiça Edital 01/2026",
+  "objetivas": 70,
+  "discursivas": 2,
+  "blocos": {
+    "Português": 15,
+    "Conhecimentos Específicos": 40,
+    "Conhecimentos Gerais": 15
+  },
+  "minimos": {
+    "portugues_acertos": 8,
+    "especificos_acertos": 20,
+    "total_acertos": 35
+  },
+  "bank": "autoral; prova formativa, não calibração VUNESP",
+  "reaplicacao_B": "mesmas questões reordenadas"
+}
