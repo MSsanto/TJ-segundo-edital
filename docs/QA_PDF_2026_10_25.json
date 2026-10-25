@@ -1,0 +1,128 @@
+{
+  "total_pdfs": 24,
+  "books": {
+    "semana_08.pdf": {
+      "pages": 7,
+      "size_bytes": 41616,
+      "has_selectable_text": true
+    },
+    "semana_17.pdf": {
+      "pages": 7,
+      "size_bytes": 41792,
+      "has_selectable_text": true
+    },
+    "semana_14.pdf": {
+      "pages": 7,
+      "size_bytes": 41532,
+      "has_selectable_text": true
+    },
+    "semana_15.pdf": {
+      "pages": 7,
+      "size_bytes": 40843,
+      "has_selectable_text": true
+    },
+    "semana_02.pdf": {
+      "pages": 7,
+      "size_bytes": 42188,
+      "has_selectable_text": true
+    },
+    "semana_19.pdf": {
+      "pages": 7,
+      "size_bytes": 44263,
+      "has_selectable_text": true
+    },
+    "semana_18.pdf": {
+      "pages": 7,
+      "size_bytes": 42476,
+      "has_selectable_text": true
+    },
+    "semana_10.pdf": {
+      "pages": 7,
+      "size_bytes": 41558,
+      "has_selectable_text": true
+    },
+    "semana_16.pdf": {
+      "pages": 7,
+      "size_bytes": 40717,
+      "has_selectable_text": true
+    },
+    "semana_03.pdf": {
+      "pages": 7,
+      "size_bytes": 41856,
+      "has_selectable_text": true
+    },
+    "semana_06.pdf": {
+      "pages": 7,
+      "size_bytes": 41389,
+      "has_selectable_text": true
+    },
+    "semana_04.pdf": {
+      "pages": 7,
+      "size_bytes": 42027,
+      "has_selectable_text": true
+    },
+    "semana_07.pdf": {
+      "pages": 7,
+      "size_bytes": 40348,
+      "has_selectable_text": true
+    },
+    "semana_09.pdf": {
+      "pages": 7,
+      "size_bytes": 41037,
+      "has_selectable_text": true
+    },
+    "semana_12.pdf": {
+      "pages": 7,
+      "size_bytes": 42089,
+      "has_selectable_text": true
+    },
+    "semana_13.pdf": {
+      "pages": 7,
+      "size_bytes": 41668,
+      "has_selectable_text": true
+    },
+    "semana_01.pdf": {
+      "pages": 17,
+      "size_bytes": 79399,
+      "has_selectable_text": true
+    },
+    "semana_11.pdf": {
+      "pages": 7,
+      "size_bytes": 41221,
+      "has_selectable_text": true
+    },
+    "semana_20.pdf": {
+      "pages": 7,
+      "size_bytes": 42477,
+      "has_selectable_text": true
+    },
+    "semana_05.pdf": {
+      "pages": 7,
+      "size_bytes": 40694,
+      "has_selectable_text": true
+    }
+  },
+  "simulados": {
+    "simulado_B_gabarito.pdf": {
+      "pages": 3,
+      "size_bytes": 34376,
+      "has_selectable_text": true
+    },
+    "simulado_A_gabarito.pdf": {
+      "pages": 4,
+      "size_bytes": 39557,
+      "has_selectable_text": true
+    },
+    "simulado_A_70.pdf": {
+      "pages": 14,
+      "size_bytes": 82150,
+      "has_selectable_text": true
+    },
+    "simulado_B_reaplicacao.pdf": {
+      "pages": 14,
+      "size_bytes": 80166,
+      "has_selectable_text": true
+    }
+  },
+  "sha256_zip_content_note": "SHA256 list is generated per file below"
+}

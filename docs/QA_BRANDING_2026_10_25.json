@@ -1,0 +1,146 @@
+{
+  "ok": true,
+  "count": 28,
+  "items": [
+    {
+      "name": "pdfs/legado/TJSP_2027_Caderno_01B_Gabarito_Comentado_identidade.pdf",
+      "pages": 8,
+      "bytes": 1359008
+    },
+    {
+      "name": "pdfs/legado/TJSP_2027_Caderno_01B_Processo_Civil_VUNESP_identidade.pdf",
+      "pages": 14,
+      "bytes": 1373712
+    },
+    {
+      "name": "pdfs/legado/TJSP_2027_Caderno_01_Gabarito_Comentado_identidade.pdf",
+      "pages": 6,
+      "bytes": 1354918
+    },
+    {
+      "name": "pdfs/legado/TJSP_2027_Caderno_01_Portugues_Constitucional_identidade.pdf",
+      "pages": 15,
+      "bytes": 1373318
+    },
+    {
+      "name": "pdfs/livros/semana_01_identidade.pdf",
+      "pages": 18,
+      "bytes": 1387343
+    },
+    {
+      "name": "pdfs/livros/semana_02_identidade.pdf",
+      "pages": 8,
+      "bytes": 1348552
+    },
+    {
+      "name": "pdfs/livros/semana_03_identidade.pdf",
+      "pages": 8,
+      "bytes": 1348210
+    },
+    {
+      "name": "pdfs/livros/semana_04_identidade.pdf",
+      "pages": 8,
+      "bytes": 1348363
+    },
+    {
+      "name": "pdfs/livros/semana_05_identidade.pdf",
+      "pages": 8,
+      "bytes": 1347092
+    },
+    {
+      "name": "pdfs/livros/semana_06_identidade.pdf",
+      "pages": 8,
+      "bytes": 1347807
+    },
+    {
+      "name": "pdfs/livros/semana_07_identidade.pdf",
+      "pages": 8,
+      "bytes": 1346743
+    },
+    {
+      "name": "pdfs/livros/semana_08_identidade.pdf",
+      "pages": 8,
+      "bytes": 1347928
+    },
+    {
+      "name": "pdfs/livros/semana_09_identidade.pdf",
+      "pages": 8,
+      "bytes": 1347400
+    },
+    {
+      "name": "pdfs/livros/semana_10_identidade.pdf",
+      "pages": 8,
+      "bytes": 1347945
+    },
+    {
+      "name": "pdfs/livros/semana_11_identidade.pdf",
+      "pages": 8,
+      "bytes": 1347515
+    },
+    {
+      "name": "pdfs/livros/semana_12_identidade.pdf",
+      "pages": 8,
+      "bytes": 1348428
+    },
+    {
+      "name": "pdfs/livros/semana_13_identidade.pdf",
+      "pages": 8,
+      "bytes": 1348045
+    },
+    {
+      "name": "pdfs/livros/semana_14_identidade.pdf",
+      "pages": 8,
+      "bytes": 1347897
+    },
+    {
+      "name": "pdfs/livros/semana_15_identidade.pdf",
+      "pages": 8,
+      "bytes": 1347181
+    },
+    {
+      "name": "pdfs/livros/semana_16_identidade.pdf",
+      "pages": 8,
+      "bytes": 1347112
+    },
+    {
+      "name": "pdfs/livros/semana_17_identidade.pdf",
+      "pages": 8,
+      "bytes": 1348157
+    },
+    {
+      "name": "pdfs/livros/semana_18_identidade.pdf",
+      "pages": 8,
+      "bytes": 1348834
+    },
+    {
+      "name": "pdfs/livros/semana_19_identidade.pdf",
+      "pages": 8,
+      "bytes": 1350659
+    },
+    {
+      "name": "pdfs/livros/semana_20_identidade.pdf",
+      "pages": 8,
+      "bytes": 1348838
+    },
+    {
+      "name": "pdfs/simulados/simulado_A_70_identidade.pdf",
+      "pages": 15,
+      "bytes": 1383127
+    },
+    {
+      "name": "pdfs/simulados/simulado_A_gabarito_identidade.pdf",
+      "pages": 5,
+      "bytes": 1341105
+    },
+    {
+      "name": "pdfs/simulados/simulado_B_gabarito_identidade.pdf",
+      "pages": 4,
+      "bytes": 1335887
+    },
+    {
+      "name": "pdfs/simulados/simulado_B_reaplicacao_identidade.pdf",
+      "pages": 15,
+      "bytes": 1381190
+    }
+  ]
+}

@@ -47,3 +47,7 @@ O repositório **não hospeda cópias integrais** dos cadernos VUNESP de 2023/20
 ## Finalidade
 
 Estudo pessoal, sem vínculo institucional com TJSP/VUNESP. Nenhuma garantia de classificação ou nomeação.
+
+## Identidade pessoal dos cadernos
+
+Os PDFs `*_identidade.pdf` trazem o [brasão pessoal e o lema *Ad astra per scientiam*](docs/IDENTIDADE_VISUAL.md). Os PDFs originais foram preservados. O roteiro `scripts/apply_branding.py` permite reproduzir a capa e os rodapés em todo o curso.
