@@ -13,3 +13,11 @@
 ## 2026-10-23 — 1.1 (coleção inicial)
 
 - 20 livros de síntese + roteiro de leitura dos dispositivos do edital.
+
+## 2026-10-25 — Identidade pessoal nos materiais
+
+- Adicionado brasão próprio de Matheus Santo, preservado do acervo de identidade heráldica.
+- Adicionado lema **Ad astra per scientiam** nas capas e nos rodapés.
+- Gerados 20 livros-texto, 4 arquivos de simulados e 4 arquivos legados em versões `*_identidade.pdf`.
+- Criado gerador reexecutável `scripts/apply_branding.py` e manual `docs/IDENTIDADE_VISUAL.md`.
+- Documentada a separação entre identidade pessoal e símbolos oficiais de TJSP/VUNESP.
