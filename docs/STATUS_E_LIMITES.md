@@ -28,3 +28,7 @@
 3. Provas antigas são **100 questões**, a nova é **70 questões + 2 discursivas**.
 4. Simulado B reutiliza as questões do A; não soma 70 questões inéditas adicionais.
 5. Nos livros v2 das semanas 02–20 há quadros metodológicos repetidos: volume maior não implica conteúdo jurídico exaustivo.
+
+## Auditoria adicional de 25/10/2026
+
+Há **bloqueios críticos** documentados em [AUDITORIA_INDEPENDENTE_2026_10_25.md](AUDITORIA_INDEPENDENTE_2026_10_25.md): repetições nos distratores do Simulado A e fórmulas nos livros 02–20, além de falta de mapeamento das 200 questões. Criados [complemento conferido de Semana 02](../livros/suplementos/semana_02_conferencia_fundamentos.md) e [bloco piloto](../simulados/BLOCO_PILOTO_2026_01.md). Os volumes antigos **não foram homologados**.

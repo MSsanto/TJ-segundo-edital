@@ -21,3 +21,11 @@
 - Gerados 20 livros-texto, 4 arquivos de simulados e 4 arquivos legados em versões `*_identidade.pdf`.
 - Criado gerador reexecutável `scripts/apply_branding.py` e manual `docs/IDENTIDADE_VISUAL.md`.
 - Documentada a separação entre identidade pessoal e símbolos oficiais de TJSP/VUNESP.
+
+## 2026-10-25 — Auditoria editorial e piloto jurídico
+
+- Confrontados edital 01/2026, amostra dos cadernos oficiais 2023 e 2024, e textos oficiais CF/CP/CPC.
+- Identificadas repetições em 40 questões do Simulado A e fórmulas genéricas nos volumes 02–20; status **não homologado** mantido.
+- Adicionados `scripts/audit_quality.py` e `scripts/validate_pilot.py`, com QA reprodutível e modo estrito.
+- Criados `docs/AUDITORIA_INDEPENDENTE_2026_10_25.md`, matriz amostral, suplemento temático da Semana 02, e bloco piloto novo de 12 objetivas + 2 discursivas com gabarito fundamentado.
+- Mantidos livros e simulados originais para transparência; não reproduzidos enunciados antigos na íntegra.

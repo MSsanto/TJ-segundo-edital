@@ -1,0 +1,154 @@
+{
+  "cargo": "Oficial de Justiça TJSP, Edital 01/2026",
+  "auditoria": "editorial/estrutural, não revisão jurídica individual",
+  "books_v2": 20,
+  "simulado_A_questoes": 70,
+  "simulado_A_alternativas": 350,
+  "repeated_options_5_or_more": {
+    "a impossibilidade de revisar assuntos complexos": 5,
+    "a equivalência entre qualquer resumo e a norma completa": 5,
+    "a irrelevância de verificar os requisitos do edital": 5,
+    "a obrigatoriedade de dispensar o registro documental": 5,
+    "informações inventadas e não mencionadas": 5,
+    "as relações justificadas entre as informações expressas e o contexto": 5,
+    "uma conclusão oposta à tese apresentada": 5,
+    "suposições sem apoio no texto": 5,
+    "o sentido isolado de cada palavra, independentemente do parágrafo": 5,
+    "impedir a identificação da ideia principal": 5,
+    "eliminar a necessidade de entender o tema": 5,
+    "substituir qualquer relação de causa por uma opinião aleatória": 5,
+    "inverter o papel das palavras sem alterar o sentido": 5,
+    "construir uma explicação com encadeamento e sentido": 5,
+    "A regra é universal e independe de sujeitos, pressupostos, competências, hipóteses e exceções legais.": 40,
+    "O procedimento pode ser livremente substituído por uma prática administrativa sem fundamento normativo.": 40,
+    "É possível dispensar por decisão particular do agente qualquer requisito legal expressamente previsto.": 40
+  },
+  "books": {
+    "semana_01": {
+      "words": 7086,
+      "generic_formula": 0,
+      "generic_distractor_tip": 0,
+      "mermaid": 2
+    },
+    "semana_02": {
+      "words": 2886,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_03": {
+      "words": 2777,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_04": {
+      "words": 2840,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_05": {
+      "words": 2755,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_06": {
+      "words": 2767,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_07": {
+      "words": 2805,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_08": {
+      "words": 2836,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_09": {
+      "words": 2880,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_10": {
+      "words": 2806,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_11": {
+      "words": 2874,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_12": {
+      "words": 2838,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_13": {
+      "words": 2877,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_14": {
+      "words": 2783,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_15": {
+      "words": 2795,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_16": {
+      "words": 2781,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_17": {
+      "words": 2834,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_18": {
+      "words": 2883,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_19": {
+      "words": 3001,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    },
+    "semana_20": {
+      "words": 2858,
+      "generic_formula": 6,
+      "generic_distractor_tip": 6,
+      "mermaid": 1
+    }
+  },
+  "problems": [
+    "ALTO: distratores textualmente repetidos >= 10 vezes no simulado",
+    "ALTO: formulação genérica repetida em módulos 02-20",
+    "MÉDIO: Simulado B é reaplicação, não novo banco independente"
+  ],
+  "course_homologated": false
+}

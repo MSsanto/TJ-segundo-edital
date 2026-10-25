@@ -28,3 +28,7 @@
 - [x] Cargo e ano identificados no site da banca
 - [x] Links de consulta e gabarito público localizados
 - [ ] Matriz exaustiva de classificação por artigo e alternativa de todas as 200 questões (não alegar feita sem auditoria manual)
+
+## Conferência amostral (25/10/2026)
+
+Consulte [a tabela dos itens realmente conferidos](CONFERENCIA_AMOSTRAL_2023_2024.md). Para 2023, foram anuladas definitivamente as questões 49 e 67 no gabarito da versão 1. Não use gabaritos provisórios como definitivos.
