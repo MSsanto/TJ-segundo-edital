@@ -24,6 +24,8 @@ Legenda: **Concluído** = há evidência publicada; **Parcial** = existe um iní
 | 15 | P1 | Revalidar calendário diário contra a versão canônica e a carga real | **Parcial** | Cada data aponta para arquivo existente e sessão com assunto real; ajustar plantões e atualização de atualidades |
 | 16 | P2 | Executar QA e registrar evidências de aceite | **Parcial** | Testes estruturais e de integridade passam; relatório separado para qualidade substantiva e jurídico-editorial |
 
+| 17 | P1 | Criar apostila-mestre organizada por matéria e capítulos, preservando rastreabilidade e lacunas | **Estrutura concluída; PDF em geração** — capítulos por disciplina criados; complementação do edital continua pendente | Um PDF único, sumário, capítulos por disciplina, exercícios preservados, identidade visual e avisos explícitos de lacunas |
+
 ## Ordem de execução recomendada
 
 1. **P0 — cobertura:** tarefas 01, 03, 04, 05 e 07.
