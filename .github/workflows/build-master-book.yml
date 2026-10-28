@@ -12,6 +12,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: master-apostilas-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,7 +27,7 @@ jobs:
         run: |
           export DEBIAN_FRONTEND=noninteractive
           sudo apt-get update
-          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-latex-recommended texlive-fonts-recommended texlive-lang-portuguese
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y pandoc texlive-xetex texlive-latex-extra texlive-latex-recommended texlive-fonts-recommended texlive-lang-portuguese
 
       - name: Install PDF branding dependency
         run: python -m pip install pymupdf
@@ -47,5 +51,7 @@ jobs:
             echo "PDF sem alterações."
           else
             git commit -m "build: render apostila-mestre por matéria"
-            git push origin HEAD:${GITHUB_REF_NAME}
+            git fetch origin "${GITHUB_REF_NAME}"
+            git rebase "origin/${GITHUB_REF_NAME}"
+            git push origin HEAD:"${GITHUB_REF_NAME}"
           fi
