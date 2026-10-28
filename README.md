@@ -14,6 +14,10 @@ Projeto de estudo aberto, organizado por 20 semanas, com livros-texto, legislaç
 6. Estude também as provas de 2023 e 2024 pelo [catálogo](provas_antigas/CATALOGO.md) e pela [matriz amostral verificada](provas_antigas/CONFERENCIA_AMOSTRAL_2023_2024.md). Para aplicação jurídica, prefira o [bloco piloto de 12 questões](simulados/BLOCO_PILOTO_2026_01.md), com [gabarito separado](simulados/BLOCO_PILOTO_2026_01_GABARITO.md), ao Simulado A como medição de proficiência.
 7. Anote os resultados no [registro de evolução](docs/REGISTRO_DE_EVOLUCAO.md).
 
+## Cobertura do edital — auditoria de 28/10/2026
+
+A coleção **não está integralmente coberta como material autossuficiente**. O roteiro de lei seca lista os intervalos a consultar, mas isso não comprova que todos estejam explicados e exercitados nos livros. A matriz por disciplina registra lacunas em Português, Matemática, Raciocínio Lógico, Informática, Atualidades/LBI e na rastreabilidade artigo a artigo das matérias jurídicas: [Matriz de cobertura do edital por livro](docs/MATRIZ_COBERTURA_EDITAL_LIVROS_2026_10_28.md).
+
 ## Organização
 
 | Pasta | Conteúdo | Situação |
