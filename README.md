@@ -4,6 +4,15 @@
 
 Projeto de estudo aberto, organizado por 20 semanas, com livros-texto, legislação, questões autorais, catálogos de provas anteriores, respostas e registro de evolução. **Prova prevista: 14/03/2027.**
 
+
+## Apostila-mestre por matéria e capítulos
+
+A coleção agora tem uma edição consolidada organizada por disciplina e capítulos, com os exercícios preservados nos apêndices e lacunas editoriais explicitadas. **A reorganização não significa que o edital já esteja integralmente coberto.**
+
+- [Índice por matéria e capítulos](livros/por_materia/README.md)
+- [PDF consolidado para leitura/impressão](pdfs/livros/TJSP_2027_Todas_As_Apostilas_Por_Materia.pdf)
+- [Matriz de cobertura e lacunas](docs/MATRIZ_COBERTURA_EDITAL_LIVROS_2026_10_28.md)
+
 ## Por onde começar
 
 1. **Leia a [auditoria editorial de 25/10/2026](docs/AUDITORIA_INDEPENDENTE_2026_10_25.md) e as [limitações do curso](docs/STATUS_E_LIMITES.md).**
