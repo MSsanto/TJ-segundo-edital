@@ -1,5 +1,13 @@
 # Changelog — TJSP Oficial de Justiça
 
+## 2026-10-28 — Auditoria de cobertura do Anexo VIII
+
+- Criada `docs/MATRIZ_COBERTURA_EDITAL_LIVROS_2026_10_28.md`, confrontando as 20 semanas versionadas com as disciplinas e os tópicos do edital de Oficial de Justiça.
+- Conclusão documentada: cobertura didática parcial; roteiro de lei seca não equivale à explicação completa de todos os dispositivos.
+- Registradas lacunas em Matemática, Raciocínio Lógico, Informática, Português, Atualidades/LBI e rastreabilidade jurídica artigo a artigo.
+- Registrada divergência de versão: `livros/v2_1/` não está no branch `main`, embora o calendário aponte para material no Drive.
+- README atualizado para expor o estado real do curso, sem alegar homologação.
+
 ## 2026-10-25 — 2.0.0 (base de estudo, sem homologação jurídica)
 
 - Escopo explicitamente limitado ao concurso de **Oficial de Justiça**, Edital TJSP 01/2026.
