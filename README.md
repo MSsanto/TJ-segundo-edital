@@ -16,7 +16,7 @@ Projeto de estudo aberto, organizado por 20 semanas, com livros-texto, legislaç
 
 ## Cobertura do edital — auditoria de 28/10/2026
 
-A coleção **não está integralmente coberta como material autossuficiente**. O roteiro de lei seca lista os intervalos a consultar, mas isso não comprova que todos estejam explicados e exercitados nos livros. A matriz por disciplina registra lacunas em Português, Matemática, Raciocínio Lógico, Informática, Atualidades/LBI e na rastreabilidade artigo a artigo das matérias jurídicas: [Matriz de cobertura do edital por livro](docs/MATRIZ_COBERTURA_EDITAL_LIVROS_2026_10_28.md).
+A coleção **não está integralmente coberta como material autossuficiente**. O roteiro de lei seca lista os intervalos a consultar, mas isso não comprova que todos estejam explicados e exercitados nos livros. A matriz por disciplina registra lacunas em Português, Matemática, Raciocínio Lógico, Informática, Atualidades/LBI e na rastreabilidade artigo a artigo das matérias jurídicas: [Matriz de cobertura do edital por livro](docs/MATRIZ_COBERTURA_EDITAL_LIVROS_2026_10_28.md). O trabalho está organizado em [backlog numerado com critérios de aceite](docs/BACKLOG_NUMERADO.md).
 
 ## Organização
 
