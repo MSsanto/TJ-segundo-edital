@@ -7,6 +7,7 @@
 - Registradas lacunas em Matemática, Raciocínio Lógico, Informática, Português, Atualidades/LBI e rastreabilidade jurídica artigo a artigo.
 - Registrada divergência de versão: `livros/v2_1/` não está no branch `main`, embora o calendário aponte para material no Drive.
 - README atualizado para expor o estado real do curso, sem alegar homologação.
+- Criado `docs/BACKLOG_NUMERADO.md` com prioridades, estados reais e critérios de aceite.
 
 ## 2026-10-25 — 2.0.0 (base de estudo, sem homologação jurídica)
 
