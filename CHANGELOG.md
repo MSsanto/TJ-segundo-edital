@@ -38,3 +38,12 @@
 - Adicionados `scripts/audit_quality.py` e `scripts/validate_pilot.py`, com QA reprodutível e modo estrito.
 - Criados `docs/AUDITORIA_INDEPENDENTE_2026_10_25.md`, matriz amostral, suplemento temático da Semana 02, e bloco piloto novo de 12 objetivas + 2 discursivas com gabarito fundamentado.
 - Mantidos livros e simulados originais para transparência; não reproduzidos enunciados antigos na íntegra.
+
+
+## 2026-10-28 — Apostila-mestre por matéria e capítulos
+
+- Reorganizadas as aulas existentes nos 20 livros-texto v2.0 em arquivos por disciplina e capítulos.
+- Preservados exercícios, propostas discursivas e correções nos apêndices, com referência à semana de origem.
+- Acrescentadas listas explícitas de tópicos que ainda precisam de desenvolvimento ou conferência artigo por artigo.
+- Adicionado fluxo automatizado para gerar um PDF consolidado com capa e identidade visual do curso.
+- Esta entrega é estrutural: não declara o edital integralmente coberto nem substitui revisão jurídica substantiva.
