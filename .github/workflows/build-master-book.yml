@@ -21,8 +21,9 @@ jobs:
 
       - name: Install Pandoc and XeLaTeX
         run: |
+          export DEBIAN_FRONTEND=noninteractive
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-latex-extra texlive-fonts-recommended texlive-lang-portuguese
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-latex-recommended texlive-fonts-recommended texlive-lang-portuguese
 
       - name: Install PDF branding dependency
         run: python -m pip install pymupdf
